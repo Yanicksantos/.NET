@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
- <img src="https://th.bing.com/th/id/OIP.uhSX5djhrWiguXoWsW_lEwHaCx?pid=ImgDet&rs=1" width="250px">
+ <img src="https://th.bing.com/th/id/OIP.uhSX5djhrWiguXoWsW_lEwHaCx?pid=ImgDet&rs=1" width="400px">
 <br>
 <h1>
 Meus passos em Python
