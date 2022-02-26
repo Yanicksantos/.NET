@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\bin\Debug\netcoreapp3.1\ApredendoSobreposicao.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\bin\Debug\netcoreapp3.1\ApredendoSobreposicao.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\bin\Debug\netcoreapp3.1\ApredendoSobreposicao.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\bin\Debug\netcoreapp3.1\ApredendoSobreposicao.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\bin\Debug\netcoreapp3.1\ApredendoSobreposicao.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\bin\Debug\netcoreapp3.1\ApredendoSobreposicao.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\obj\Debug\netcoreapp3.1\ApredendoSobreposicao.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\obj\Debug\netcoreapp3.1\ApredendoSobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\obj\Debug\netcoreapp3.1\ApredendoSobreposicao.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\obj\Debug\netcoreapp3.1\ApredendoSobreposicao.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\obj\Debug\netcoreapp3.1\ApredendoSobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\obj\Debug\netcoreapp3.1\ApredendoSobreposicao.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\obj\Debug\netcoreapp3.1\ApredendoSobreposicao.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoSobreposicao\ApredendoSobreposicao\obj\Debug\netcoreapp3.1\ApredendoSobreposicao.genruntimeconfig.cache

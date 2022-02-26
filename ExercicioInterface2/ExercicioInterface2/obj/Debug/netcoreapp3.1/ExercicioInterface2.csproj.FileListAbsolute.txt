@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\bin\Debug\netcoreapp3.1\ExercicioInterface2.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\bin\Debug\netcoreapp3.1\ExercicioInterface2.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\bin\Debug\netcoreapp3.1\ExercicioInterface2.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\bin\Debug\netcoreapp3.1\ExercicioInterface2.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\bin\Debug\netcoreapp3.1\ExercicioInterface2.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\bin\Debug\netcoreapp3.1\ExercicioInterface2.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\obj\Debug\netcoreapp3.1\ExercicioInterface2.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\obj\Debug\netcoreapp3.1\ExercicioInterface2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\obj\Debug\netcoreapp3.1\ExercicioInterface2.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\obj\Debug\netcoreapp3.1\ExercicioInterface2.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\obj\Debug\netcoreapp3.1\ExercicioInterface2.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\obj\Debug\netcoreapp3.1\ExercicioInterface2.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\obj\Debug\netcoreapp3.1\ExercicioInterface2.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioInterface2\ExercicioInterface2\obj\Debug\netcoreapp3.1\ExercicioInterface2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\bin\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\bin\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\bin\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\bin\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\bin\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\bin\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\obj\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\obj\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\obj\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\obj\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\obj\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\obj\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\obj\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnumFeitoNaMarra\ExercicioEnumFeitoNaMarra\obj\Debug\netcoreapp3.1\ExercicioEnumFeitoNaMarra.genruntimeconfig.cache

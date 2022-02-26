@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\bin\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\bin\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\bin\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\bin\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\bin\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\bin\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo.genruntimeconfig.cache

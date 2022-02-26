@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\bin\Debug\netcoreapp3.1\ExercicioProdutoFixacao.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\bin\Debug\netcoreapp3.1\ExercicioProdutoFixacao.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\bin\Debug\netcoreapp3.1\ExercicioProdutoFixacao.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\bin\Debug\netcoreapp3.1\ExercicioProdutoFixacao.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\bin\Debug\netcoreapp3.1\ExercicioProdutoFixacao.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\bin\Debug\netcoreapp3.1\ExercicioProdutoFixacao.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\obj\Debug\netcoreapp3.1\ExercicioProdutoFixacao.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\obj\Debug\netcoreapp3.1\ExercicioProdutoFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\obj\Debug\netcoreapp3.1\ExercicioProdutoFixacao.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\obj\Debug\netcoreapp3.1\ExercicioProdutoFixacao.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\obj\Debug\netcoreapp3.1\ExercicioProdutoFixacao.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\obj\Debug\netcoreapp3.1\ExercicioProdutoFixacao.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\obj\Debug\netcoreapp3.1\ExercicioProdutoFixacao.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioProdutoFixacao\ExercicioProdutoFixacao\obj\Debug\netcoreapp3.1\ExercicioProdutoFixacao.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\bin\Debug\netcoreapp3.1\Restudando.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\bin\Debug\netcoreapp3.1\Restudando.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\bin\Debug\netcoreapp3.1\Restudando.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\bin\Debug\netcoreapp3.1\Restudando.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\bin\Debug\netcoreapp3.1\Restudando.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\bin\Debug\netcoreapp3.1\Restudando.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\obj\Debug\netcoreapp3.1\Restudando.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\obj\Debug\netcoreapp3.1\Restudando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\obj\Debug\netcoreapp3.1\Restudando.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\obj\Debug\netcoreapp3.1\Restudando.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\obj\Debug\netcoreapp3.1\Restudando.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\obj\Debug\netcoreapp3.1\Restudando.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\obj\Debug\netcoreapp3.1\Restudando.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\AprendendoConstrutores\Restudando\Restudando\obj\Debug\netcoreapp3.1\Restudando.genruntimeconfig.cache

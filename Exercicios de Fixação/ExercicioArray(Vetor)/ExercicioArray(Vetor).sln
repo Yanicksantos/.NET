@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioArray(Vetor)", "ExercicioArray(Vetor)\ExercicioArray(Vetor).csproj", "{F00E1DA1-9081-4BFA-B778-47DBA11A4974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00E1DA1-9081-4BFA-B778-47DBA11A4974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00E1DA1-9081-4BFA-B778-47DBA11A4974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00E1DA1-9081-4BFA-B778-47DBA11A4974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00E1DA1-9081-4BFA-B778-47DBA11A4974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {466F1F05-F8D2-4E20-84B7-B268133D1FF1}
+	EndGlobalSection
+EndGlobal

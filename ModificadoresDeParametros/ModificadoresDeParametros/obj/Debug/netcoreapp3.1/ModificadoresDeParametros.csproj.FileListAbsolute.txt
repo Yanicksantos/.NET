@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\netcoreapp3.1\ModificadoresDeParametros.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\netcoreapp3.1\ModificadoresDeParametros.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\netcoreapp3.1\ModificadoresDeParametros.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\netcoreapp3.1\ModificadoresDeParametros.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\netcoreapp3.1\ModificadoresDeParametros.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\netcoreapp3.1\ModificadoresDeParametros.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.1\ModificadoresDeParametros.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.1\ModificadoresDeParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.1\ModificadoresDeParametros.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.1\ModificadoresDeParametros.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.1\ModificadoresDeParametros.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.1\ModificadoresDeParametros.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.1\ModificadoresDeParametros.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.1\ModificadoresDeParametros.genruntimeconfig.cache

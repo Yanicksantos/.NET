@@ -1,0 +1,13 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBloco.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBloco.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBloco.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBloco.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBloco.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBloco.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBloco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBloco.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBloco.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBloco.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBloco.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBloco.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBloco.genruntimeconfig.cache

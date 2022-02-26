@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\bin\Debug\netcoreapp3.1\ClassPath.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\bin\Debug\netcoreapp3.1\ClassPath.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\bin\Debug\netcoreapp3.1\ClassPath.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\bin\Debug\netcoreapp3.1\ClassPath.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\bin\Debug\netcoreapp3.1\ClassPath.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\bin\Debug\netcoreapp3.1\ClassPath.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\obj\Debug\netcoreapp3.1\ClassPath.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\obj\Debug\netcoreapp3.1\ClassPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\obj\Debug\netcoreapp3.1\ClassPath.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\obj\Debug\netcoreapp3.1\ClassPath.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\obj\Debug\netcoreapp3.1\ClassPath.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\obj\Debug\netcoreapp3.1\ClassPath.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\obj\Debug\netcoreapp3.1\ClassPath.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\ClassPath\ClassPath\obj\Debug\netcoreapp3.1\ClassPath.genruntimeconfig.cache

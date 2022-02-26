@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\bin\Debug\netcoreapp3.1\CapituloArray.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\bin\Debug\netcoreapp3.1\CapituloArray.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\bin\Debug\netcoreapp3.1\CapituloArray.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\bin\Debug\netcoreapp3.1\CapituloArray.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\bin\Debug\netcoreapp3.1\CapituloArray.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\bin\Debug\netcoreapp3.1\CapituloArray.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\obj\Debug\netcoreapp3.1\CapituloArray.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\obj\Debug\netcoreapp3.1\CapituloArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\obj\Debug\netcoreapp3.1\CapituloArray.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\obj\Debug\netcoreapp3.1\CapituloArray.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\obj\Debug\netcoreapp3.1\CapituloArray.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\obj\Debug\netcoreapp3.1\CapituloArray.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\obj\Debug\netcoreapp3.1\CapituloArray.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\CapituloArray\CapituloArray\obj\Debug\netcoreapp3.1\CapituloArray.genruntimeconfig.cache

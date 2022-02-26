@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\bin\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\bin\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\bin\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\bin\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\bin\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\bin\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_EstruturaCondicional\Exercicio_EstruturaCondicional\obj\Debug\netcoreapp3.1\Exercicio_EstruturaCondicional.genruntimeconfig.cache

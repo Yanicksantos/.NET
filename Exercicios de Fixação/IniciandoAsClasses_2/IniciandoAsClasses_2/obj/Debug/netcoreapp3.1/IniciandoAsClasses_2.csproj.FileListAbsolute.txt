@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\bin\Debug\netcoreapp3.1\IniciandoAsClasses_2.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\bin\Debug\netcoreapp3.1\IniciandoAsClasses_2.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\bin\Debug\netcoreapp3.1\IniciandoAsClasses_2.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\bin\Debug\netcoreapp3.1\IniciandoAsClasses_2.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\bin\Debug\netcoreapp3.1\IniciandoAsClasses_2.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\bin\Debug\netcoreapp3.1\IniciandoAsClasses_2.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\obj\Debug\netcoreapp3.1\IniciandoAsClasses_2.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\obj\Debug\netcoreapp3.1\IniciandoAsClasses_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\obj\Debug\netcoreapp3.1\IniciandoAsClasses_2.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\obj\Debug\netcoreapp3.1\IniciandoAsClasses_2.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\obj\Debug\netcoreapp3.1\IniciandoAsClasses_2.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\obj\Debug\netcoreapp3.1\IniciandoAsClasses_2.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\obj\Debug\netcoreapp3.1\IniciandoAsClasses_2.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\IniciandoAsClasses_2\IniciandoAsClasses_2\obj\Debug\netcoreapp3.1\IniciandoAsClasses_2.genruntimeconfig.cache

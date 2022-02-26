@@ -1,0 +1,13 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\bin\Debug\netcoreapp3.1\LacoForeach.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\bin\Debug\netcoreapp3.1\LacoForeach.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\bin\Debug\netcoreapp3.1\LacoForeach.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\bin\Debug\netcoreapp3.1\LacoForeach.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\bin\Debug\netcoreapp3.1\LacoForeach.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\bin\Debug\netcoreapp3.1\LacoForeach.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.genruntimeconfig.cache

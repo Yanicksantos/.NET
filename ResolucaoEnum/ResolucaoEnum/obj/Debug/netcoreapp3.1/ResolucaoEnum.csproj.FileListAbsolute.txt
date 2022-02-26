@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\bin\Debug\netcoreapp3.1\ResolucaoEnum.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\bin\Debug\netcoreapp3.1\ResolucaoEnum.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\bin\Debug\netcoreapp3.1\ResolucaoEnum.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\bin\Debug\netcoreapp3.1\ResolucaoEnum.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\bin\Debug\netcoreapp3.1\ResolucaoEnum.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\bin\Debug\netcoreapp3.1\ResolucaoEnum.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\obj\Debug\netcoreapp3.1\ResolucaoEnum.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\obj\Debug\netcoreapp3.1\ResolucaoEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\obj\Debug\netcoreapp3.1\ResolucaoEnum.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\obj\Debug\netcoreapp3.1\ResolucaoEnum.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\obj\Debug\netcoreapp3.1\ResolucaoEnum.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\obj\Debug\netcoreapp3.1\ResolucaoEnum.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\obj\Debug\netcoreapp3.1\ResolucaoEnum.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ResolucaoEnum\ResolucaoEnum\obj\Debug\netcoreapp3.1\ResolucaoEnum.genruntimeconfig.cache

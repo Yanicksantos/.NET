@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\bin\Debug\netcoreapp3.1\PrIMEIRO.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\bin\Debug\netcoreapp3.1\PrIMEIRO.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\bin\Debug\netcoreapp3.1\PrIMEIRO.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\bin\Debug\netcoreapp3.1\PrIMEIRO.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\bin\Debug\netcoreapp3.1\PrIMEIRO.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\bin\Debug\netcoreapp3.1\PrIMEIRO.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\obj\Debug\netcoreapp3.1\PrIMEIRO.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\obj\Debug\netcoreapp3.1\PrIMEIRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\obj\Debug\netcoreapp3.1\PrIMEIRO.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\obj\Debug\netcoreapp3.1\PrIMEIRO.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\obj\Debug\netcoreapp3.1\PrIMEIRO.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\obj\Debug\netcoreapp3.1\PrIMEIRO.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\obj\Debug\netcoreapp3.1\PrIMEIRO.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\PrIMEIRO\PrIMEIRO\obj\Debug\netcoreapp3.1\PrIMEIRO.genruntimeconfig.cache

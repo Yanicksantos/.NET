@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\bin\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\bin\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\bin\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\bin\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\bin\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\bin\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\obj\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\obj\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\obj\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\obj\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\obj\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\obj\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\obj\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\namespace IniciandoAsClasses_4\namespace IniciandoAsClasses_4\obj\Debug\netcoreapp3.1\namespace IniciandoAsClasses_4.genruntimeconfig.cache

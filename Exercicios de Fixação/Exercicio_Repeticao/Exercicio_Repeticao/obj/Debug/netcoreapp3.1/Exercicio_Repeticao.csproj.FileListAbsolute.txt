@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\bin\Debug\netcoreapp3.1\Exercicio_Repeticao.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\bin\Debug\netcoreapp3.1\Exercicio_Repeticao.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\bin\Debug\netcoreapp3.1\Exercicio_Repeticao.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\bin\Debug\netcoreapp3.1\Exercicio_Repeticao.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\bin\Debug\netcoreapp3.1\Exercicio_Repeticao.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\bin\Debug\netcoreapp3.1\Exercicio_Repeticao.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Repeticao.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Repeticao.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Repeticao.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Repeticao.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Repeticao.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\Exercicio_Repeticao\Exercicio_Repeticao\obj\Debug\netcoreapp3.1\Exercicio_Repeticao.genruntimeconfig.cache

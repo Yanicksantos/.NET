@@ -1,0 +1,28 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\bin\Debug\netcoreapp3.1\ExercicioArray(Vetor).exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\bin\Debug\netcoreapp3.1\ExercicioArray(Vetor).deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\bin\Debug\netcoreapp3.1\ExercicioArray(Vetor).runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\bin\Debug\netcoreapp3.1\ExercicioArray(Vetor).runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\bin\Debug\netcoreapp3.1\ExercicioArray(Vetor).dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\bin\Debug\netcoreapp3.1\ExercicioArray(Vetor).pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).genruntimeconfig.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\bin\Debug\netcoreapp3.1\ExercicioArray(Vetor).exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\bin\Debug\netcoreapp3.1\ExercicioArray(Vetor).deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\bin\Debug\netcoreapp3.1\ExercicioArray(Vetor).runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\bin\Debug\netcoreapp3.1\ExercicioArray(Vetor).runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\bin\Debug\netcoreapp3.1\ExercicioArray(Vetor).dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\bin\Debug\netcoreapp3.1\ExercicioArray(Vetor).pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioArray(Vetor)\ExercicioArray(Vetor)\obj\Debug\netcoreapp3.1\ExercicioArray(Vetor).genruntimeconfig.cache

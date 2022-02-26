@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\bin\Debug\netcoreapp3.1\ExercicioMatriz.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\bin\Debug\netcoreapp3.1\ExercicioMatriz.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\bin\Debug\netcoreapp3.1\ExercicioMatriz.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\bin\Debug\netcoreapp3.1\ExercicioMatriz.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\bin\Debug\netcoreapp3.1\ExercicioMatriz.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\bin\Debug\netcoreapp3.1\ExercicioMatriz.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.genruntimeconfig.cache

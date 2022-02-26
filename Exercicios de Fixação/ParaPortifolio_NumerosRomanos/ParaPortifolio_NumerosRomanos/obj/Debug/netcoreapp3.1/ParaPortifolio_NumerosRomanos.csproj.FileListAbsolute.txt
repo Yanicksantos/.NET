@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\obj\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\obj\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\obj\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\obj\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\obj\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\bin\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\bin\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\bin\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\bin\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\bin\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\bin\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\obj\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\obj\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ParaPortifolio_NumerosRomanos\ParaPortifolio_NumerosRomanos\obj\Debug\netcoreapp3.1\ParaPortifolio_NumerosRomanos.genruntimeconfig.cache

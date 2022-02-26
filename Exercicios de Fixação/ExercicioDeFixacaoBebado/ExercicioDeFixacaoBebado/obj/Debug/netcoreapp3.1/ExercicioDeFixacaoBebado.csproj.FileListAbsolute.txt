@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioDeFixacaoBebado\ExercicioDeFixacaoBebado\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoBebado.genruntimeconfig.cache

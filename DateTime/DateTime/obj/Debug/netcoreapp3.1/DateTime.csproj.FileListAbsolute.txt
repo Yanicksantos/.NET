@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache

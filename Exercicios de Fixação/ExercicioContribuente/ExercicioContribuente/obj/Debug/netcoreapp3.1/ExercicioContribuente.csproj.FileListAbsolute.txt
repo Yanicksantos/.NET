@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\bin\Debug\netcoreapp3.1\ExercicioContribuente.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\bin\Debug\netcoreapp3.1\ExercicioContribuente.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\bin\Debug\netcoreapp3.1\ExercicioContribuente.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\bin\Debug\netcoreapp3.1\ExercicioContribuente.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\bin\Debug\netcoreapp3.1\ExercicioContribuente.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\bin\Debug\netcoreapp3.1\ExercicioContribuente.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\obj\Debug\netcoreapp3.1\ExercicioContribuente.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\obj\Debug\netcoreapp3.1\ExercicioContribuente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\obj\Debug\netcoreapp3.1\ExercicioContribuente.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\obj\Debug\netcoreapp3.1\ExercicioContribuente.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\obj\Debug\netcoreapp3.1\ExercicioContribuente.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\obj\Debug\netcoreapp3.1\ExercicioContribuente.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\obj\Debug\netcoreapp3.1\ExercicioContribuente.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioContribuente\ExercicioContribuente\obj\Debug\netcoreapp3.1\ExercicioContribuente.genruntimeconfig.cache

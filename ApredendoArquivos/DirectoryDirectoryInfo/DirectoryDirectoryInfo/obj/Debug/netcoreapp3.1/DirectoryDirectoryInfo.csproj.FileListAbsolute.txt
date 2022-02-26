@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\netcoreapp3.1\DirectoryDirectoryInfo.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\netcoreapp3.1\DirectoryDirectoryInfo.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\netcoreapp3.1\DirectoryDirectoryInfo.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\netcoreapp3.1\DirectoryDirectoryInfo.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\netcoreapp3.1\DirectoryDirectoryInfo.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\netcoreapp3.1\DirectoryDirectoryInfo.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfo.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfo.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfo.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\ApredendoArquivos\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryDirectoryInfo.genruntimeconfig.cache

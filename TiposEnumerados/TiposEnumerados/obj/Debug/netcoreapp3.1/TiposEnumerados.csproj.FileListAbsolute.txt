@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\bin\Debug\netcoreapp3.1\TiposEnumerados.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\bin\Debug\netcoreapp3.1\TiposEnumerados.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\bin\Debug\netcoreapp3.1\TiposEnumerados.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\bin\Debug\netcoreapp3.1\TiposEnumerados.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\bin\Debug\netcoreapp3.1\TiposEnumerados.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\bin\Debug\netcoreapp3.1\TiposEnumerados.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\obj\Debug\netcoreapp3.1\TiposEnumerados.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\obj\Debug\netcoreapp3.1\TiposEnumerados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\obj\Debug\netcoreapp3.1\TiposEnumerados.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\obj\Debug\netcoreapp3.1\TiposEnumerados.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\obj\Debug\netcoreapp3.1\TiposEnumerados.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\obj\Debug\netcoreapp3.1\TiposEnumerados.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\obj\Debug\netcoreapp3.1\TiposEnumerados.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\TiposEnumerados\TiposEnumerados\obj\Debug\netcoreapp3.1\TiposEnumerados.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\bin\Debug\netcoreapp3.1\ExercicioEnum.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\Exercicios de Fixação\ExercicioEnum\ExercicioEnum\obj\Debug\netcoreapp3.1\ExercicioEnum.genruntimeconfig.cache

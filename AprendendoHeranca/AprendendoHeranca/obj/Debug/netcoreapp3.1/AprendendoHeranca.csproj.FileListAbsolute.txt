@@ -1,0 +1,14 @@
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\bin\Debug\netcoreapp3.1\AprendendoHeranca.exe
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\bin\Debug\netcoreapp3.1\AprendendoHeranca.deps.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\bin\Debug\netcoreapp3.1\AprendendoHeranca.runtimeconfig.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\bin\Debug\netcoreapp3.1\AprendendoHeranca.runtimeconfig.dev.json
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\bin\Debug\netcoreapp3.1\AprendendoHeranca.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\bin\Debug\netcoreapp3.1\AprendendoHeranca.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\obj\Debug\netcoreapp3.1\AprendendoHeranca.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\obj\Debug\netcoreapp3.1\AprendendoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\obj\Debug\netcoreapp3.1\AprendendoHeranca.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\obj\Debug\netcoreapp3.1\AprendendoHeranca.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\obj\Debug\netcoreapp3.1\AprendendoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\obj\Debug\netcoreapp3.1\AprendendoHeranca.dll
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\obj\Debug\netcoreapp3.1\AprendendoHeranca.pdb
+C:\Users\YANICK\Desktop\Rumo a PROGRAMADOR\C#\AprendendoHeranca\AprendendoHeranca\obj\Debug\netcoreapp3.1\AprendendoHeranca.genruntimeconfig.cache
