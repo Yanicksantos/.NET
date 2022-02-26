@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
- <img src="https://www.acsce.edu.in/blog/wp-content/uploads/2017/03/python-logo.jpg" width="250px">
+ <img src="https://th.bing.com/th/id/OIP.uhSX5djhrWiguXoWsW_lEwHaCx?pid=ImgDet&rs=1" width="250px">
 <br>
 <h1>
 Meus passos em Python
